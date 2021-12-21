@@ -1,9 +1,9 @@
 # docker-django-postgre
 
 ### ローカル環境
-- docker 20.10
-- docker-compose 1.27.4
-- git 2.25
+- docker 20.10.7
+- docker-compose 1.29.2
+- git 2.25.1
 
 ### 作成する環境
 - Python 3.9.6
