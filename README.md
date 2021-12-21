@@ -10,7 +10,12 @@
 - PostgreSQL 13.4
 - nginx 1.20.1
 
-### サービスの構築
+### 環境の構築
+```
+$ git clone https://github.com/yuuya-saito/mjr.git
+```
+
+### コンテナの構築
 ```
 $ docker-compose build
 ```
