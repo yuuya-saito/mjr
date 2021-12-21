@@ -15,6 +15,7 @@ services:
       - ./src:/workspace
       - ./docker/nginx/default.conf:/etc/nginx/conf.d/default.conf
       - ./docker/nginx/uwsgi_params:/etc/nginx/uwsgi_params
+      - ./src/static:/static
     working_dir:
       /workspace
     depends_on:
