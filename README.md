@@ -1,4 +1,4 @@
-# docker-django-postgre
+# Project MJR
 
 ### ローカル環境
 - docker 20.10.7
