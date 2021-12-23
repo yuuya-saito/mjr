@@ -1,6 +1,7 @@
 FROM python:3.9.6
 
 ENV PYTHONUNBUFFERED 1
+ENV PYTHONDONTWRITEBYTECODE 1
 RUN mkdir /workspace
 WORKDIR /workspace
 ADD requirements.txt /workspace/

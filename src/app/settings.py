@@ -28,7 +28,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'localhost',
-    '164.70.117.227'
+    '164.70.117.227',
+    'clan-mjr.com'
     ]
 
 
